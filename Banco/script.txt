@@ -1,1 +1,4 @@
 # Script de banco
+
+
+CREATE TABLE
